@@ -11,8 +11,7 @@
 ## 🌱 Currently Learning  
 - ⚛️ Advanced **React** (hooks, context, performance optimization)  
 - 🌐 Expanding into **back-end basics** for full-stack development  
-
-<br><br>
+<br>
 
 ## 🚀 What I Love Working On  
 - 🎨 Interactive UIs & smooth user experiences  
